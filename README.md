@@ -9,7 +9,9 @@ Complier: Cmake
 What I learned:
 
 -Theory behind Mask R-CNN: Instance Segmentation, R-CNN, Inception Model 
+
 -Interfacing with Deep Neural networks library in OpenCV 4/2
+
 -Working with frozen models and pretrained weights
 
 
