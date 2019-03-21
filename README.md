@@ -31,7 +31,7 @@ Instead of searching throughout the entire image, for example  by using a slidin
 
 What is Region proposal Network?
 
-Typically a triditional computer vision methord that identifies posible 
+Typically a triditional computer vision methord that identifies posible. One methord is selective search. 
 
 
 What is Instance Segmentation?
