@@ -14,6 +14,8 @@ What I learned:
 
 -Working with frozen models and pretrained weights
 
+-C++ implementation of OpenCV libraries
+
 
 Mask R-CNN is the combination of using a R-CNN with instance segmentation to provide a mask which aims to capture the maximum number of pixels within an object detection bounding box. The backone of the R-CNN used was the Inception model
 
@@ -25,8 +27,15 @@ It provides the network with freedom to choose which combines provides the most 
 
 What is a R-CNN?
 
+Instead of searching throughout the entire image, for example  by using a sliding window methord, Regional - CNNs use a region proposal network to first predict where an object might be. This can decrease computatin because not all parts of the image is being processed.   
+
+What is Region proposal Network?
+
+Typically a triditional computer vision methord that identifies posible 
+
 
 What is Instance Segmentation?
+
 
 ___
 Aplication: 
